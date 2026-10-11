@@ -1,0 +1,27 @@
+# Manim specific
+media/
+*.log
+.manim/
+
+# Audio & Music Assets
+music/
+*.mp3
+*.wav
+*.ogg
+*.flac
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
